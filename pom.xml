@@ -12,7 +12,7 @@
 
     <groupId>net.kuper.tz</groupId>
     <artifactId>tz-parent</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.01</version>
     <packaging>pom</packaging>
 
     <properties>
@@ -20,6 +20,7 @@
         <timestamp>${maven.build.timestamp}</timestamp>
         <revision>1.0.01</revision>
         <java.version>1.8</java.version>
+        <mysql.version>8.0.20</mysql.version>
         <mybatis-spring-boot-starter.version>2.1.1</mybatis-spring-boot-starter.version>
         <knife4j.version>2.0.1</knife4j.version>
         <swagger.version>2.9.2</swagger.version>
